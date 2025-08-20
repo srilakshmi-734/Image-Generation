@@ -64,6 +64,34 @@ Image-Generation/
 
 ---
 
+## 🏋️ How We Are Training the Model  
+
+The model is trained in a **step-by-step process** so it learns how to generate images that match text prompts:  
+
+1. **Dataset Preparation**  
+   - Images are collected and preprocessed using `clip_image/ImageGeneration.ipynb`.  
+   - Captions or descriptions are paired with images.  
+
+2. **Text–Image Embeddings**  
+   - We use **CLIP** to link words and images.  
+   - The embeddings act like the model’s “memory” of how language and visuals connect.  
+
+3. **Model Training**  
+   - A **diffusion model** is fine-tuned on these embeddings.  
+   - It learns to gradually “draw” images step by step, guided by text meaning.  
+
+4. **Evaluation & Refinement**  
+   - Generated samples are compared with prompts.  
+   - The model is adjusted to improve accuracy and visual quality.  
+
+5. **Deployment**  
+   - Once trained, the model is loaded into the **Gradio app** for real-time generation.  
+
+**Hardware Needs**  
+- Recommended: GPU (12GB+ VRAM) for smooth training.  
+- Training time: 2–4 hours depending on dataset size.  
+
+---
 ## 🚀 Getting Started  
 
 ### 🔹 For Non-Coders  
