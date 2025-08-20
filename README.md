@@ -30,7 +30,7 @@ This project combines **state-of-the-art AI models** with a simple **web interfa
 
 ---
 
-## 👩‍💻 Who Can Use This  
+## 👨🏽‍💻 Who Can Use This  
 
 - 🎨 **Artists & Designers** – Create concept art or design ideas quickly.  
 - 📚 **Students & Teachers** – Generate visuals for learning and presentations.  
