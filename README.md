@@ -74,7 +74,7 @@ Image-Generation/
 
 1. **Clone Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/Image-Generation.git
+git clone https://github.com/AjayKumar-KK/Image-Generation.git
 cd Image-Generation
 ```
 
