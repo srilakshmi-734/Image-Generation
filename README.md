@@ -64,7 +64,7 @@ Image-Generation/
 
 ---
 
-## 🏋️ How We Are Training the Model  
+## How We Are Training the Model  
 
 The model is trained in a **step-by-step process** so it learns how to generate images that match text prompts:  
 
