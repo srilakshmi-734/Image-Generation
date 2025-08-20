@@ -5,8 +5,6 @@ This project combines **state-of-the-art AI models** with a simple **web interfa
 
 ---
 
----
-
 ## 🔗 Quick Links  
 
 - **[Run the Gradio App](./frontend_gradio/Gradio_frontend_.ipynb)** – Try generating images instantly  
