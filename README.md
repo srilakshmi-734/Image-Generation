@@ -5,6 +5,17 @@ This project combines **state-of-the-art AI models** with a simple **web interfa
 
 ---
 
+---
+
+## 🔗 Quick Links  
+
+- **[Run the Gradio App](./frontend_gradio/Gradio_frontend_.ipynb)** – Try generating images instantly  
+- **[Explore the Model](./model/)** – View or update trained AI model files  
+- **[Work with Embeddings](./embedding/)** – Check stored embeddings and metadata  
+- **[Preprocessing Scripts](./clip_image/)** – Dataset preparation notebooks and requirements  
+
+---
+
 ## ✨ What This Project Does  
 
 1. **You type a prompt**  
