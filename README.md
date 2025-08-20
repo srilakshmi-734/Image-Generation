@@ -102,7 +102,7 @@ The model is trained in a **step-by-step process** so it learns how to generate 
 
 1. **Clone Repository**  
 ```bash
-git clone https://github.com/AjayKumar-KK/Image-Generation.git
+git clone https://github.com/srilakshmi-734/Image-Generation.git
 cd Image-Generation
 ```
 
